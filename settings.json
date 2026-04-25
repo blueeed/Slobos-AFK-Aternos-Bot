@@ -8,8 +8,8 @@
   "server": {
     "ip": "ROBOT_AI_.aternos.me",
     "port": 41700,
-    "version": "",
-    "try-creative": false
+    "version": "1.20.6",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
